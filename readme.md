@@ -1,25 +1,27 @@
-# Hi there! Welcome! 👋  
-👋 **Hello, World!** I'm **Mustamin**, a passionate **full-stack developer** in the making. My journey revolves around crafting responsive and dynamic web applications with a solid understanding of both front-end and back-end development.  
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=24&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+there!👋+I'm + Muhammad+Hashim" />
+  </a>
+</h1>
+<h3 align="center">
+  A Passionate Software Engineer 
+</h3>
+<br/>
+A Software Engineer Passionate About Web Development Since I Was 17 Years Old. I'm Pakistani And Born In 1999. I Completed My Bachelor Of Science In Computer Science And I'm Currently Learning Cloud Native Technologies and Generative AI i.e. DevOps, GAI. I Love Challenges. They Are My Strengths, Just Like Every Developer. I Love Coding And Am Passionate About Teaching Everything I Know. Everything I Have Is Because Of Allah's Grace And Kindness.
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HashimThePassionate/.HashimThePassionate/&left_color=red&right_color=green&left_text=Visitors" />
 
-🐍 On the back end, I’m diving deep into **Python** with a focus on building robust web applications using modern frameworks. On the front end, I bring ideas to life with **HTML**, **CSS**, and **JavaScript**, complemented by the power of **Tailwind CSS** and **Bootstrap** for sleek designs.  
-
-🚀 Join me on this coding adventure where passion meets programming, and let’s build something incredible together! 🌐💻  
-
-### **Skills** 🚀  
-- **Front-End Development**: HTML, CSS, JavaScript  
-- **CSS Frameworks**: Tailwind CSS, Bootstrap  
-- **Back-End Development**: Python, Django (Exploring Node.js soon!)  
-- **Version Control**: Git, GitHub  
-- **Web Development**: Building responsive, interactive websites  
-- **Project Management**: Managing repositories and detailed READMEs  
+##  Technologies I Love🚀
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,bootstrap,html,css,vscode,github,tailwind,git,redis,azure,linux" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,express,nginx,docker,mongodb,kubernetes,mysql,postgresql,django,flask,fastapi,kafka" /><br>
+</div>
 
 
-### 🎓 **Education**  
-💻 **Computer Science Student** | 🎓 **Recent O Levels Graduate**  
-- Exploring full-stack technologies to master end-to-end web development.  
-- Passionate about learning, coding, and contributing to impactful projects.  
+## Education 🎓
+* Bachelor's degree in Computer Science
+* Courses: Machine Learning, AI, Web3, and Metaverse.
+<br>Feel free to reach out if you're interested in collaborating on projects or for a free consultation.
 
-### 📫 **Contact**  
-📧 Email: muishiaman142@gmail.com  
-🌐 Website: Coming Soon!  
-GitHub: [Mustamin](#)  
+## Contact 📫
+* Email: hashiimtahir@gmail.com
+* Linkedin: [LinkedIn](https://www.linkedin.com/in/hashimthepassionate/)
