@@ -55,7 +55,7 @@
 ---
 
 ## 💻 My Recent Projects
-- 🌟 *[Project Name](#)*: A brief description of the project.
+- 🌟 *[Weather App](https://themystiquemindset.github.io/weather-app/)*: A brief description of the project.
 - 🌟 *[Project Name](#)*: A brief description of the project.
 - 🌟 *[Project Name](#)*: A brief description of the project.
 
