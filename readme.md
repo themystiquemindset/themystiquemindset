@@ -62,7 +62,7 @@
 ---
 
 ## 📫 Contact Me
-📧 Email: [muishiaman142@gmail.com](mailto:muishiaman142@gmail.com)  
+📧 Email: [mishiaman142@gmail.com](mailto:muishiaman142@gmail.com)  
 🤝 Open to collaborations and consultations!  
 
 ---
