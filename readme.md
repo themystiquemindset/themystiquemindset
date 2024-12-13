@@ -55,7 +55,7 @@
 ---
 
 ## 💻 My Recent Projects
-- 🌟 *[Weather App](https://themystiquemindset.github.io/weather-app/)*: A brief description of the project.
+- 🌟 *[Weather App](https://themystiquemindset.github.io/weather-app/)*: A simple weather application that provides current weather details and uses live weather data from OpenWeather API.
 - 🌟 *[Project Name](#)*: A brief description of the project.
 - 🌟 *[Project Name](#)*: A brief description of the project.
 
