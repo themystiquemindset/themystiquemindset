@@ -17,13 +17,24 @@
   I'm on a journey to craft responsive, dynamic, and engaging web applications with a solid understanding of both front-end and back-end development.
 </p>
 
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=themystiquemindset/.HashimThePassionate/&left_color=red&right_color=green&left_text=Visitors" />
+</div>
+
+
+## 🚀 Technologies I Love
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,python,git,github,vscode" />
+</div>
+
+
 ---
 
 ## 🐍 Back-End Mastery
-- 🌟 *Languages: *Python, JavaScript, TypeScript
-- 🛠 *Frameworks: *Django, Flask, FastAPI, Express.js
-- 🗄 *Databases: *MongoDB, PostgreSQL, MySQL, Redis
-- 🚀 *DevOps: *Docker, Kubernetes, NGINX, Kafka
+- 🌟 *Languages:* Python, JavaScript, TypeScript
+- 🛠 *Frameworks:* Django, Flask, FastAPI, Express.js
+- 🗄 *Databases:* MongoDB, PostgreSQL, MySQL, Redis
+- 🚀 *DevOps:* Docker, Kubernetes, NGINX, Kafka
 
 ## 🌐 Front-End Excellence
 - ✨ Building beautiful UIs with HTML, CSS, JavaScript
@@ -32,12 +43,6 @@
 
 ---
 
-## 🚀 Technologies I Love
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,python,git,github,vscode" />
-</div>
-
----
 
 ## 🎓 Education
 🎓 Computer Science Student  
@@ -61,9 +66,9 @@
 
 ---
 
-## 📫 Contact Me
+<!-- ## 📫 Contact Me
 📧 Email: [mishiaman142@gmail.com](mailto:muishiaman142@gmail.com)  
-🤝 Open to collaborations and consultations!  
+🤝 Open to collaborations and consultations!   -->
 
 ---
 
@@ -74,6 +79,3 @@
   <a href="mailto:muishiaman142@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=themystiquemindset/.HashimThePassionate/&left_color=red&right_color=green&left_text=Visitors" />
-</div>
