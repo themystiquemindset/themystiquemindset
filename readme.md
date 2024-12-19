@@ -14,7 +14,14 @@
 <br/>
 
 <p align="center">
-  My name is Mustamin Aman, which means peaceful. I don’t like to talk much about myself, but like the meaning of my name, I approach my work with a sense of calm and dedication. I’m a 15-year-old girl passionate about learning programming, and I put my heart into everything I do. Whenever I receive a task, I give it my full effort and passion. I always strive to create the best result, even if it takes weeks of hard work.
+  My name is Mustamin Aman, which means peaceful. I believe in expressing my dedication through my work, and just like the meaning of my name, I approach my tasks with calm and commitment. I’m a 15-year-old girl passionate about learning programming, and I put my heart into everything I do. Whenever I receive a task, I give it my full effort and passion. I always strive to create the best result, even if it takes weeks of hard work.
+
+
+
+
+
+
+
 </p>
 
 <div align="right">
