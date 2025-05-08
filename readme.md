@@ -86,74 +86,68 @@
   <a href="mailto:muishiaman142@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
  -->
- -->
+ 
 
 
 
 
 
 
+<!-- 1) BIG HEADING WITH BLUE THEME -->
+<h1 align="center">
+  <!-- Multiple lines in typing animation; separate them with semicolons (;) -->
+  <img 
+    src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I%27m+Muhammad+Hashim;A+Passionate+Software+Engineer;Welcome+to+my+Profile!&font=Montserrat&weight=700&size=40&color=2196F3&duration=2000&pause=1000&center=true&vCenter=true&width=900&height=120" 
+    alt="Typing SVG" 
+  />
+</h1>
 
-# <div align="center">Hi there! 👋 I'm Mustamin Aman</div>
+<!-- 2) SUB-HEADING IN BLUE -->
+<h3 align="center" style="color:#2196F3;">
+  A Passionate Software Engineer
+</h3>
+<br/>
 
-<div align="center">
-  <h3>⚡ A Passionate Full Stack Developer ⚡</h3>
-</div>
-
----
-
+<!-- 3) BODY TEXT (BLACK FOR READABILITY) -->
 <p>
-  My name is Mustamin Aman, which means peaceful. I believe in expressing my dedication through my work, and just like the meaning of my name, I approach my tasks with calm and commitment. I'm a 15-year-old girl passionate about learning programming, and I put my heart into everything I do. Whenever I receive a task, I give it my full effort and passion. I always strive to create the best result, even if it takes weeks of hard work.
+  A Software Engineer Passionate About Web Development Since I Was 17 Years Old.
+  I'm Pakistani And Born In 1999. I Completed My Bachelors Of Science In Computer
+  Science And I'm Currently Learning Cloud Native Technologies and Generative AI
+  i.e. DevOps, GAI. I Love Challenges. They Are My Strengths, Just Like Every
+  Developer. I Love Coding And I Am Passionate About Teaching Everything I Know.
+  Everything I Have Is Because Of Allah's Grace And Kindness.
 </p>
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=themystiquemindset/.HashimThePassionate/&left_color=red&right_color=green&left_text=Visitors" />
-</div>
+<!-- 4) VISITOR BADGE -->
+<img 
+  align="right" 
+  src="https://komarev.com/ghpvc/?username=HashimThePassionate&label=Profile%20Views&color=2196F3&style=flat&base=13000" 
+  alt="Visitor Badge" 
+/>
 
-## 🚀 Technologies I Love
+
+<!-- 5) BLUE HEADING FOR 'TECHNOLOGIES I LOVE' -->
+<h2 style="color:#2196F3;">Technologies I Love 🚀</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,python,git,github,vscode" />
+  <!-- Skill Icons (First Row) -->
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,bootstrap,html,css,vscode,github,tailwind,git,redis,azure,linux" />
+  <!-- Skill Icons (Second Row) -->
+  <img src="https://skillicons.dev/icons?i=nodejs,python,express,nginx,docker,mongodb,kubernetes,mysql,postgresql,django,flask,fastapi,kafka" />
 </div>
 
----
+<!-- 6) BLUE HEADING FOR 'EDUCATION' -->
+<h2 style="color:#2196F3;">Education 🎓</h2>
+<ul>
+  <li>Bachelor's degree in Computer Science</li>
+  <li>Courses: Machine Learning, AI, Web3, and Metaverse.</li>
+</ul>
+<p>
+  Feel free to reach out if you're interested in collaborating on projects or for a free consultation.
+</p>
 
-## 🐍 Back-End Mastery
-- 🌟 *Languages:* Python, JavaScript, TypeScript
-- 🛠 *Frameworks:* Django, Flask, FastAPI, Express.js
-- 🗄 *Databases:* MongoDB, PostgreSQL, MySQL, Redis
-- 🚀 *DevOps:* Docker, Kubernetes, NGINX, Kafka
-
-## 🌐 Front-End Excellence
-- ✨ Building beautiful UIs with HTML, CSS, JavaScript
-- 🌈 *Frameworks & Libraries:* React, Next.js, Bootstrap, TailwindCSS
-- 🎨 Designing with a keen eye for responsiveness and aesthetics
-
----
-
-## 🎓 Education
-🎓 Computer Science Student  
-🎓 Recent O Levels Graduate  
-📖 Always eager to learn and grow in the tech field!  
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=themystiquemindset&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=themystiquemindset&theme=radical&hide_border=true" width="48%" />
-</div>
-
----
-
-## 💻 My Recent Projects
-- 🌟 *[Weather App](https://themystiquemindset.github.io/weather-app/)*: A simple weather application that provides current weather details and uses live weather data from OpenWeather API.
-- 🌟 *[Markdown Editor](https://themystiquemindset.github.io/Markdown-Editor/)*: A simple and interactive Markdown editor for live preview and formatting, developed using HTML, CSS, and JavaScript.
-- 🌟 *[Portfolio Website](#)*: Personal portfolio website showcasing my skills and projects.
-
----
-
-## ✨ Let's Connect! ✨
-<div align="center">
-  <a href="https://github.com/themystiquemindset"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:muishiaman142@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</div>
+<!-- 7) BLUE HEADING FOR 'CONTACT' -->
+<h2 style="color:#2196F3;">Contact 📫</h2>
+<ul>
+  <li>Email: hashiimtahir@gmail.com</li>
+  <li>Linkedin: <a href="https://www.linkedin.com/in/hashimthepassionate/">LinkedIn</a></li>
+</ul>
