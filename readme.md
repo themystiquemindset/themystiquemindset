@@ -137,7 +137,7 @@
   <li>Courses: Machine Learning, AI, Web3, and Metaverse.</li>
 </ul>
 <p>
-  Feel free to reach out if you're interested in collaborating on projects or for a free consultation.
+  Feel free to reach out if you're interested in collaborating on beginner-friendly projects, exchanging ideas, or providing feedback on each other's work.
 </p>
 
 <!-- 7) BLUE HEADING FOR 'CONTACT' -->
