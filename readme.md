@@ -104,7 +104,7 @@
 
 <!-- 2) SUB-HEADING IN BLUE -->
 <h3 align="center" style="color:#2196F3;">
-  A Passionate Software Engineer
+  Aspiring Software Developer
 </h3>
 <br/>
 
