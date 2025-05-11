@@ -138,7 +138,7 @@
 <!-- 6) BLUE HEADING FOR 'EDUCATION' -->
 <h2 style="color:#2196F3;">Education 🎓</h2>
 <ul>
-  <li>Bachelor's degree in Computer Science</li>
+  <li>USA Diploma</li>
   <li>Courses: Machine Learning, AI, Web3, and Metaverse.</li>
 </ul>
 <p>
