@@ -97,7 +97,7 @@
 <h1 align="center">
   <!-- Multiple lines in typing animation; separate them with semicolons (;) -->
   <img 
-    src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I%27m+Muhammad+Hashim;A+Passionate+Software+Engineer;Welcome+to+my+Profile!&font=Montserrat&weight=700&size=40&color=2196F3&duration=2000&pause=1000&center=true&vCenter=true&width=900&height=120" 
+    src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I%27m+Mustamin+Aman;A+Passionate+Software+Engineer;Welcome+to+my+Profile!&font=Montserrat&weight=700&size=40&color=2196F3&duration=2000&pause=1000&center=true&vCenter=true&width=900&height=120" 
     alt="Typing SVG" 
   />
 </h1>
@@ -148,6 +148,6 @@
 <!-- 7) BLUE HEADING FOR 'CONTACT' -->
 <h2 style="color:#2196F3;">Contact 📫</h2>
 <ul>
-  <li>Email: hashiimtahir@gmail.com</li>
-  <li>Linkedin: <a href="https://www.linkedin.com/in/hashimthepassionate/">LinkedIn</a></li>
+  <li>Email: mishiaman142@gmail.com</li>
+  <li>Linkedin: <a href="">LinkedIn</a></li>
 </ul>
