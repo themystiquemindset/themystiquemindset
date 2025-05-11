@@ -134,7 +134,7 @@
 <h2 style="color:#2196F3;">Education 🎓</h2>
 <ul>
   <li>USA Diploma</li>
-  <li>Courses: Machine Learning, AI, Web3, and Metaverse.</li>
+  <li>Courses: Python via Web Development, AI, ITSY (Information Technology Systems and Yield), ITNW (Information Technology Networking).</li>
 </ul>
 <p>
   Feel free to reach out if you're interested in collaborating on beginner-friendly projects, exchanging ideas, or providing feedback on each other's work.
