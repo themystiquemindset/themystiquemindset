@@ -8,7 +8,7 @@
 </h1>
 
 <!-- 2) SUB-HEADING IN BLUE -->
-<h3 align="center" style="color:#2196F3;">
+<h3 align="center" style="color:#1976D2;">
   Aspiring Software Developer
 </h3>
 <br/>
