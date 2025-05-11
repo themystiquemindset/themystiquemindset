@@ -110,12 +110,7 @@
 
 <!-- 3) BODY TEXT (BLACK FOR READABILITY) -->
 <p>
-  A Software Engineer Passionate About Web Development Since I Was 17 Years Old.
-  I'm Pakistani And Born In 1999. I Completed My Bachelors Of Science In Computer
-  Science And I'm Currently Learning Cloud Native Technologies and Generative AI
-  i.e. DevOps, GAI. I Love Challenges. They Are My Strengths, Just Like Every
-  Developer. I Love Coding And I Am Passionate About Teaching Everything I Know.
-  Everything I Have Is Because Of Allah's Grace And Kindness.
+ A GED student from Pakistan, born in 2009. I’m currently focused on learning Python and building projects with HTML, CSS, JavaScript, and Python. With a strong passion for web development, I actively explore new technologies to sharpen my skills and grow as a developer.
 </p>
 
 <!-- 4) VISITOR BADGE -->
